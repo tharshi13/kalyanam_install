@@ -1,0 +1,3 @@
+{"Time":"10-01-2017 23:08:21","IP":"127.0.0.1","UserAgent":"Mozilla\/5.0 (Windows NT 6.3; WOW64; Trident\/7.0; Touch; rv:11.0) like Gecko","UrlPag":"http:\/\/127.0.0.1\/pH7CMS-8.0.6\/note\/author\/racho0o","Query":"note\/author\/racho0o","Message":"SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'ph7cms.n.noteId' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by","Level":"42000","File":"C:\\Bitnami\\wampstack-7.1.8-0\\apache2\\htdocs\\pH7CMS-8.0.6\\_protected\\app\\system\\modules\\note\\models\\NoteModel.php","Line":75}
+
+
